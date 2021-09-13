@@ -1,6 +1,6 @@
 {
+  "send the letter": false,
   "buy milk": true,
   "buy eggs": true,
-  "send the letter": true,
-  "visit doctor": false
+  "visit doctor": true
 }
