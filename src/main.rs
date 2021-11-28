@@ -26,7 +26,7 @@ fn main() {
     }
 }
 
-// Using HasMap to store key/value pairs: 
+// Using HashMap to store key/value pairs: 
 struct Todo {
     map: HashMap<String, bool>,
 }
